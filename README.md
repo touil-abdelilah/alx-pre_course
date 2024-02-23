@@ -2,7 +2,7 @@
 
 This project guide to essential `tools` and concepts in the world of software development and technology. 
 
-#What's Included
+# What's Included
 Shell Navigation: Learn how to navigate and manage files and directories in a Unix environment using shell commands.
 Emacs: Dive into the powerful text editor Emacs, understand its features, and master essential tasks for efficient editing.
 vi: Explore the classic text editor vi, discover its functionality, and learn how to wield its editing powers.
@@ -35,7 +35,6 @@ To navigate in a Unix system, you can use the following commands:
 
 Emacs is a powerful text editor that provides extensive customization options and features for editing text, writing code, and managing files.
 
-- **Richard Stallman**: Richard Stallman is the founder of the Free Software Foundation and the GNU Project, which includes Emacs.
 
 ## Getting Started with Emacs
 
