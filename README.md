@@ -1,8 +1,8 @@
-##Introduction
+# Introduction
 
 This project guide to essential `tools` and concepts in the world of software development and technology. 
 
-# What's Included
+##What's Included
 Shell Navigation: Learn how to navigate and manage files and directories in a Unix environment using shell commands.
 Emacs: Dive into the powerful text editor Emacs, understand its features, and master essential tasks for efficient editing.
 vi: Explore the classic text editor vi, discover its functionality, and learn how to wield its editing powers.
@@ -18,7 +18,7 @@ Certainly! Below are the sections for each subject in the README file:
 
 To navigate in a Unix system, you can use the following commands:
 
-- **`cd`**: Change directory. Use `cd` followed by the directory name to navigate to a specific directory.
+ **`cd`**: Change directory. Use `cd` followed by the directory name to navigate to a specific directory.
 - **`ls`**: List files and directories in the current directory.
 - **`cat`**: Display the content of a file.
 - **`mkdir`**: Create a new directory.
